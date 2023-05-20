@@ -1,0 +1,3 @@
+plotly
+xlrd
+papermill
